@@ -2,7 +2,7 @@
 *
 *	Hill Cipher Implementation - Encryption Only
 *
-*	Created by Peter Hudson and Aakash Sunil
+*	Done by Peter Hudson and Aakash Sunil
 *
 */
 
