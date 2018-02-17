@@ -2,7 +2,7 @@
 *
 * 	Caeser Cipher Implementation
 *
-* 	Created by Peter Hudson and Aakash Sunil
+* 	Done by Peter Hudson and Aakash Sunil
 *
 */
 
