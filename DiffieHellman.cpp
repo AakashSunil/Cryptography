@@ -2,7 +2,7 @@
 *
 *	Diffie-Hellman Implementation
 *
-*	Created by Aakash Sunil and Peter Hudson
+*	Done by Aakash Sunil and Peter Hudson
 * 
 */
 
