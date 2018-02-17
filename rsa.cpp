@@ -1,7 +1,7 @@
 /*
 *	RSA Algorithm Implementation
 *
-*	Done by Aakas Sunil and Peter Hudson
+*	Done by Aakash Sunil and Peter Hudson
 *
 */
 
